@@ -7,7 +7,7 @@ Self-contained C# Console Application.
 ## Code style
 C#
 ## Screenshots
-![](images/bj21.ping)
+![](main/images/bj21.ping)
 ## Tech/framework used
 (IDE) Used for this project was 'Visual Studio 2022'.
 ## How to use?
