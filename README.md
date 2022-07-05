@@ -16,7 +16,7 @@ This is a standard C# console application.
 2.	Locate the .sln file with visual studio.
 3.	‘Click’ on it and It should launch.
 ## Credits
-(adding later)
+Special thanks to Darren Kuefner a co-worker, developer and mentor who helped guide me through this project. 
 ## License
 I have placed this under the provisions and guidelines of MIT License. 
 MIT © [Gilbert Gonzales]()
