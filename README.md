@@ -1,22 +1,21 @@
 # BlackJack21
 Black Jack game using most of the game rules and logic. 
 ## Motivation
-Learning C# and I needed a project to gain some experience. Great game to start with. 
+Experimenting with C# and this seemed to be a great project to start with.
 ## Build status
 Self-contained C# Console Application. 
-## Code style
-C#
 ## Screenshots
 ![](images/bj21.png)
-## Tech/framework used
-(IDE) Used for this project was 'Visual Studio 2022'.
+## Tech/Framework
+Visual Studio 2022, C#
 ## How to use?
 This is a standard C# console application.  
 1.	Just download this to you preferred computer location.  
 2.	Locate the .sln file with visual studio.
 3.	‘Click’ on it and It should launch.
 ## Credits
-Special thanks to Darren Kuefner my co-worker, developer and mentor who helped guide me through this project. 
+Special thanks to [Darren Kuefner]( https://www.linkedin.com/in/darren-kuefner/) developer, sherpa and mentor. 
 ## License
-I have placed this under the provisions and guidelines of MIT License. 
+It probably doesn’t need any kind of licensing, but in keeping with GitHub’s preferred practices and recommendations. I have placed this under the provisions and guidelines of an MIT License. 
 MIT © [Gilbert Gonzales]()
+
