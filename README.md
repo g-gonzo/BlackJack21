@@ -14,7 +14,7 @@ This is a standard C# console application.
 2.	Locate the .sln file with visual studio.
 3.	‘Click’ on it and It should launch.
 ## Credits
-Special thanks to [Darren Kuefner]( https://www.linkedin.com/in/darren-kuefner/) developer, sherpa and mentor. 
+Special thanks to [Darren Kuefner]( https://www.linkedin.com/in/darren-kuefner/) developer, coding sherpa and mentor. 
 ## License
 It probably doesn’t need any kind of licensing, but in keeping with GitHub’s preferred practices and recommendations. I have placed this under the provisions and guidelines of an MIT License. 
 MIT © [Gilbert Gonzales]()
